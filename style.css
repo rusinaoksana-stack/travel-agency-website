@@ -92,7 +92,7 @@ nav ul li a:hover {
 /* Home Section */
 .home {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
-                url('images/b86284d2649ce7634f7e7b3d08ef940c.jpg');
+                url('b86284d2649ce7634f7e7b3d08ef940c.jpg');
     background-size: cover;
     background-position: center;
     height: 80vh;
